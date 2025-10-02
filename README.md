@@ -223,10 +223,3 @@ Gurobi & CPLEX documentation (modeling set-partitioning & column generation).
 
 Streamlit documentation (UI deployment & Plotly integration).
 
-Contact
-
-If you use this repo or adapt it for your thesis/project, feel free to credit the original author. For questions, contact: kumarpravender1999@gmail.com (replace with your contact).
-
-Screenshots / Demo
-
-(Placeholders — add screenshots from your Streamlit runs here)
